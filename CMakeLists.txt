@@ -11,4 +11,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(wallpaper-daemon
     src/main.cpp
     src/config.cpp
+    src/scanner.cpp
 )
