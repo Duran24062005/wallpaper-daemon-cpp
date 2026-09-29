@@ -1,5 +1,5 @@
 #include <iostream>
-#include "config.hpp"
+#include "../include/config.hpp"
 
 int main() {
   std::cout << "Wallpaper Daemon - C++\n";

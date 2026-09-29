@@ -1,4 +1,4 @@
-#include "config.hpp"
+#include "../include/config.hpp"
 
 Config create_default_config(){
     Config config;
