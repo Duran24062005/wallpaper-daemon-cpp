@@ -41,3 +41,6 @@ coverage/
 tmp/
 runtime/
 
+
+output/
+
