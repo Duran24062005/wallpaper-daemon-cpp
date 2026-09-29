@@ -1,0 +1,43 @@
+# Build systems and generated binaries
+build/
+cmake-build-*/
+out/
+bin/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+compile_commands.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Tests, coverage and local configuration
+Testing/
+coverage/
+*.gcda
+*.gcno
+*.gcov
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+
+# IDEs and runtime output
+.vscode/
+.idea/
+*.swp
+*.swo
+.cache/
+*.log
+*.pid
+tmp/
+runtime/
+
