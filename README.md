@@ -23,3 +23,14 @@ La configuración de build todavía debe formalizarse. No se debe asumir que un
 comando funciona hasta que exista una configuración versionada y reproducible.
 La paridad funcional con Rust es incremental y está descrita en [`prds/`](prds/README.md).
 
+
+## Commands for this project
+
+1. Para compilar esté proyecto:
+```cmd
+g++ src/main.cpp -o output/main
+```
+
+2. Para ejecutar esté proyecto:
+```cmd
+ ./output/main
