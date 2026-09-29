@@ -12,4 +12,5 @@ add_executable(wallpaper-daemon
     src/main.cpp
     src/config.cpp
     src/scanner.cpp
+    src/selector.cpp
 )
